@@ -1,6 +1,6 @@
 Project Name = IMDB Clone
 
-Demo =
+Demo = https://nikhilbornare.github.io/IMBD-Clone/
 
 A simple web application that allows users to search for movies by name, add and remove movies from a favorite list, and view detailed information about each movie.
 
